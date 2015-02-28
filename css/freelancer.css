@@ -416,6 +416,7 @@ footer .footer-below {
     border-radius: 0;
     text-align: center;
     background-clip: border-box;
+    background: #ECF0F1;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
