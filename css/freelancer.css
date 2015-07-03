@@ -82,7 +82,10 @@ hr.star-primary:after {
 .modal-youtube-centered {
     width: 640px;
     height: 360px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
     display: block;
 }
 header {
