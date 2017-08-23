@@ -461,27 +461,6 @@ footer .footer-below {
     outline: 0;
 }
 
-.scroll-top {
-    z-index: 1049;
-    position: fixed;
-    right: 2%;
-    bottom: 2%;
-    width: 50px;
-    height: 50px;
-}
-
-.scroll-top .btn {
-    width: 50px;
-    height: 50px;
-    border-radius: 100%;
-    font-size: 20px;
-    line-height: 28px;
-}
-
-.scroll-top .btn:focus {
-    outline: 0;
-}
-
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
