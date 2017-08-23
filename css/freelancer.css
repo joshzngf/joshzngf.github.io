@@ -11,6 +11,7 @@ body {
 
 p {
     font-size: 20px;
+    text-align: justify;
 }
 
 p.small {
@@ -67,7 +68,7 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    
+
 }
 
 hr.star-primary:after {
@@ -193,14 +194,14 @@ header .intro-text .skills {
 .navbar .navbar-nav > li > a:focus {
     color: #3498DB;
 }
-.navbar .navbar-nav > .active > a, 
-.navbar .navbar-nav > .active > a:hover, 
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
 .navbar .navbar-nav > .active > a:focus {
     color: #2C3E50;
     background-color: #ECF0F1;
 }
-.navbar .navbar-nav > .open > a, 
-.navbar .navbar-nav > .open > a:hover, 
+.navbar .navbar-nav > .open > a,
+.navbar .navbar-nav > .open > a:hover,
 .navbar .navbar-nav > .open > a:focus {
     color: #2C3E50;
     background-color: #ECF0F1;
