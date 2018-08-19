@@ -549,3 +549,10 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.vw-square {
+    width: 100vw;
+    height: 100vw;
+    margin: 0;
+    padding: 0;
+}
