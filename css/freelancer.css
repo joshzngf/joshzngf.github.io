@@ -552,7 +552,9 @@ footer .footer-below {
 
 .vw-square {
     width: 100vw;
+    max-width: 800px;
     height: 100vw;
-    margin: 0;
+    max-height: 800px;
+    margin: auto;
     padding: 0;
 }
